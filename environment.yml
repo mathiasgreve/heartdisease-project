@@ -1,0 +1,13 @@
+name:
+    heart-disease
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - jupyter
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - ipympl
